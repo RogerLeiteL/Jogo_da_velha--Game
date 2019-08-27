@@ -4,9 +4,6 @@
 * HTML
 * CSS
 * JAVASCRIPT
-- Function
-- For in
-- else if
 ---
 ### Ferramentas da função
 - Utilizei em `CSS` display Flex e propriedades simples de edição
@@ -20,3 +17,5 @@
 - assim que formar os três elementos seguidos você vence.
 - para resetar, clique 2 vezes.
 ---
+### Jogue Aqui
+https://rogerleitel.github.io/Jogo_da_velha--Game/.
