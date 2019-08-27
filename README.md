@@ -18,4 +18,4 @@
 - para resetar, clique 2 vezes.
 ---
 ### Jogue Aqui
-https://rogerleitel.github.io/Jogo_da_velha--Game/.
+https://rogerleitel.github.io/Jogo_da_velha-Game/
